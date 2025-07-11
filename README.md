@@ -11,20 +11,7 @@ Recognize faces in real-time and label them with usernames.
 
  Project Structure
 
-face_recognition_project/
-│
-├── face_data_collector.py      # Capture faces and store user info in Excel
-├── train_model.py              # Train face recognizer using LBPH
-├── face_recognizer.py          # Real-time face recognition and name display
-│
-├── dataset/                    # Contains captured face images
-│   └── User.<id>.<count>.jpg
-│
-├── trainer/                    # Contains trained model file
-│   └── trainer.yml
-│
-├── user_data.xlsx              # Excel file logging user details
-└── README.md                   # This file
+
 Requirements
 Make sure you have Python 3.6+ installed. Then install the following dependencies:
 
