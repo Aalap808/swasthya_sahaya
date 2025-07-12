@@ -10,6 +10,8 @@ Train a face recognizer using the LBPH algorithm.
 Recognize faces in real-time and label them with usernames.
 
  Project Structure
+
+ 
 ![Image Alt](https://github.com/Aalap808/swasthya_sahaya/blob/015c1fc6a8ac9de1a2b0512ff55c7dd447aa5c38/image.png)
 
 
